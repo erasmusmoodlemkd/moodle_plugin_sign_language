@@ -1,11 +1,7 @@
-/** SimpleSpeak filter styles.
-*/
-.sign-language-info {
-	cursor: help;
+
+.sign-language-info:hover {
+	cursor: help !important;
 }
-
-
-
 
 /
 * {
